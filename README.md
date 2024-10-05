@@ -1,4 +1,4 @@
-# Personaje 2024
+![image](https://github.com/user-attachments/assets/c6238b55-eb5b-4201-b42c-4d71e0be25d7)# Personaje 2024
 ## Nombre del personaje
 Muñeco de Nieve
 ## Creador
@@ -38,9 +38,9 @@ Thonny, Arduino
 
 **Enlace de simulacion de wokwi**
 
-https://wokwi.com/projects/410014958017160193
+https://wokwi.com/projects/410877699643304961
 
 **Enlace de simulacion de wokwi del personaje Navideño**
 
-https://wokwi.com/projects/410217578196963329
+https://wokwi.com/projects/410882893169628161
 
