@@ -33,7 +33,7 @@ Thonny, Arduino
 <img src="https://github.com/AntonioBM28/IoT/blob/main/Captura%20de%20pantalla%202024-10-05%20003946.png?raw=true" width="500"/>
 
 
-<img src="https://github.com/user-attachments/assets/85239caa-0031-4eae-a262-422424f61a51" width="500"/>
+<img src="https://github.com/AntonioBM28/IoT/blob/main/Wokwi2.png?raw=true" width="500"/>
 
 **Enlace de simulacion de wokwi**
 
