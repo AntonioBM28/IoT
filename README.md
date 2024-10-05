@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/c6238b55-eb5b-4201-b42c-4d71e0be25d7)# Personaje 2024
+# Personaje 2024
 ## Nombre del personaje
 Muñeco de Nieve
 ## Creador
