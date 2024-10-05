@@ -49,7 +49,7 @@ https://wokwi.com/projects/410884668833721345
 
 **Enlace al video de la simulacion en wokwi**
 
-https://drive.google.com/file/d/15812yjmcToeeZFwy-9_c0RKKJp4V0qP2/view?usp=sharing
+https://youtu.be/uMmm76SG01w
 
 ## Imagen de los examenes de cisco
 Módulo 1
