@@ -26,7 +26,7 @@ Thonny, Arduino
 
 ## Dibujo del personaje 
 
-<img src="https://github.com/AntonioBM28/IoT/blob/main/Captura%20de%20pantalla%202024-10-05%20003946.png?raw=true" width="400"/>
+<img src="https://github.com/AntonioBM28/IoT/blob/main/munieconavidad_IoT.jpg?raw=true" width="400"/>
 
 ## Enlaces de la simulacion de wokwi
 
@@ -37,11 +37,15 @@ Thonny, Arduino
 
 **Enlace de simulacion de wokwi**
 
+Parte 1:
 https://wokwi.com/projects/410877699643304961
+
+Parte 2:
+https://wokwi.com/projects/410882893169628161
 
 **Enlace de simulacion de wokwi del personaje Navideño**
 
-https://wokwi.com/projects/410882893169628161
+https://wokwi.com/projects/410884668833721345
 
 **Enlace al video de la simulacion en wokwi**
 
