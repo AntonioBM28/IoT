@@ -26,7 +26,7 @@ Thonny, Arduino
 
 ## Dibujo del personaje 
 
-<img src="https://github.com/AntonioBM28/IoT/blob/main/munieconavidad_IoT.jpg?raw=true" width="400"/>
+<img src="https://github.com/AntonioBM28/IoT/blob/main/Munieco.jpg?raw=true" width="400"/>
 
 ## Enlaces de la simulacion de wokwi
 
