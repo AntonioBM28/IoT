@@ -54,26 +54,26 @@ https://youtu.be/uMmm76SG01w
 ## Imagen de los examenes de cisco
 Módulo 1
 
-<img src="https://github.com/user-attachments/assets/6ebd4377-3ee3-4b4e-8687-8a9374d841d0" width="500"/>
+<img src="https://github.com/AntonioBM28/IoT/blob/main/Modulo1.png?raw=true" width="500"/>
 
 Módulo 2
 
-<img src="https://github.com/user-attachments/assets/14e50437-1bce-4d5c-b058-6a7ca576991f" width="500"/>
+<img src="https://github.com/AntonioBM28/IoT/blob/main/Modulo2.png?raw=true" width="500"/>
 
 
 Modulo 3
 
-<img src="https://github.com/user-attachments/assets/28ede76f-49c5-47c5-89ca-97200974a7a0" width="500"/>
+<img src="https://github.com/AntonioBM28/IoT/blob/main/Modulo3.png?raw=true" width="500"/>
 
 Módulo 4
 
-<img src="https://github.com/user-attachments/assets/6333f436-a881-44ea-aa47-9caaa4f48707" width="500"/>
+<img src="https://github.com/AntonioBM28/IoT/blob/main/Modulo4.png?raw=true" width="500"/>
 
 Módulo 5
 
-<img src="https://github.com/user-attachments/assets/24113461-2e87-42ff-9b6c-865c06ad0893" width="500"/>
+<img src="https://github.com/AntonioBM28/IoT/blob/main/Modulo5.png?raw=true" width="500"/>
 
 Examen Final
 
-<img src="https://github.com/user-attachments/assets/4e653832-7141-4025-8d23-6458874707b9" width="500"/>
+<img src="https://github.com/AntonioBM28/IoT/blob/main/FinalTest.png?raw=true" width="500"/>
 
