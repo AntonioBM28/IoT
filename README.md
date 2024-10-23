@@ -77,9 +77,16 @@ Examen Final
 
 <img src="https://github.com/AntonioBM28/IoT/blob/main/FinalTest.png?raw=true" width="500"/>
 
-##Curso Python
+## Curso Python
 
 Modulo 1
+
+<img src="https://github.com/AntonioBM28/IoT/blob/main/Captura%20de%20pantalla%202024-10-23%20154002.png?raw=true" width="500"/> 
+
+Modulo 2
+
+<img src="https://github.com/AntonioBM28/IoT/blob/main/Captura%20de%20pantalla%202024-10-23%20154129.png?raw=true" width="500"/> 
+
 
 
 
